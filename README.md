@@ -93,4 +93,4 @@
 [38]:	decisions/0042-agile-retrospective-meeting.md
 [39]:	decisions/0043-message-queue-with-filter.md
 [40]:	decisions/0044-wildcard-subdomain-resolution.md
-[47]:	decisions/linux.docx
+[47]:	decisions/0047-linux.md

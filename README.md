@@ -1,7 +1,7 @@
 # 工作记录
 
-1. Financial: Meet the financial compliance;
-2. Technology: Make all tech related things follow the best practice and make them more automated.
+*. Financial: Meet the financial compliance;
+*. Technology: Make all tech related things follow the best practice and make them more automated.
 
 
 1. [Record architecture decisions][1];

@@ -1,4 +1,4 @@
-# 1. Record architecture decisions
+# 1. 记录架构决策
 
 Date: 30/03/2017
 

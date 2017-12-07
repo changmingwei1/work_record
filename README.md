@@ -48,8 +48,9 @@
 42. [Agile - Retrospective meeting][38];
 43. [支持过滤的消息队列][39];
 44. [泛域名解析][40]；
-40. 代码审查;
-40. 知识共享;
+45. 代码审查;
+46. 知识共享;
+47. [Linux常用命令][47];
 1. TBD.
 
 [1]:	decisions/0001-record-architecture-decisions.md
@@ -92,3 +93,4 @@
 [38]:	decisions/0042-agile-retrospective-meeting.md
 [39]:	decisions/0043-message-queue-with-filter.md
 [40]:	decisions/0044-wildcard-subdomain-resolution.md
+[47]:	decisions/linux.docx

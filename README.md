@@ -1,13 +1,8 @@
-# architecture decision records
-
-This repo records what decisions I made in the company.
-
-Target: FinTech
+# 工作记录
 
 1. Financial: Meet the financial compliance;
 2. Technology: Make all tech related things follow the best practice and make them more automated.
 
-Those all come from my short experience, so please read by your own risk.
 
 1. [Record architecture decisions][1];
 2. [团队中的密码管理][2];
@@ -19,13 +14,13 @@ Those all come from my short experience, so please read by your own risk.
 8. [使用堡垒机加强服务器安全][8];
 9. [结构化 Django 项目][9];
 10. [Git 基础及风格指南][10];
-11. [Apply Github workflow to our team][11];
-12. [Think about micro service][12];
-13. [The sense of Done][13];
-14. How to restart a server;
-15. Case: How to find the root reason of high load;
+11. [将 Github工作流程应用到团队][11];
+12. [想想微服务][12];
+13. [完成的意义][13];
+14. [如何重新启动服务器][14];
+15. 案例: 如何找到高负荷的根本原因;
 16. [故障记录报告][14];
-17. Incident classify and recovery;
+17. 事件分类和恢复;
 18. [iOS 持续发布][15];
 19. [服务器申请与升级 - 容量评估][16];
 20. [日志管理][17];
@@ -36,7 +31,7 @@ Those all come from my short experience, so please read by your own risk.
 25. [按 RESTful 风格设计更新服务接口][22];
 26. [文件服务与业务服务隔离][23];
 27. [消息队列][24];
-28. What should we do when we setup a new server;
+28. 当我们安装一个新的服务器时,我们应该做什么?;
 29. [本地 hosts 管理][25];
 30. [容量评估 - 存储][26];
 31. [容量评估 - 内存][27];
@@ -53,9 +48,8 @@ Those all come from my short experience, so please read by your own risk.
 42. [Agile - Retrospective meeting][38];
 43. [支持过滤的消息队列][39];
 44. [泛域名解析][40]；
-40. code review;
-40. Knowledge sharing;
-41. Organize meetup as Company;
+40. 代码审查;
+40. 知识共享;
 1. TBD.
 
 [1]:	decisions/0001-record-architecture-decisions.md

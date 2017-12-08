@@ -51,6 +51,7 @@
 45. 代码审查;
 46. 知识共享;
 47. [Linux常用命令][47];
+48. [后端接口幂等性如何控制][49];
 1. TBD.
 
 [1]:	decisions/0001-record-architecture-decisions.md
@@ -94,3 +95,4 @@
 [39]:	decisions/0043-message-queue-with-filter.md
 [40]:	decisions/0044-wildcard-subdomain-resolution.md
 [47]:	decisions/0047-linux.md
+[49]:	decisions/0049-api.md
